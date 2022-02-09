@@ -7,8 +7,6 @@
 
 <div align="center">
 
-## Hi there 👋, I am Guru Sabarish, A passionate web app developer.
-
 ![](https://komarev.com/ghpvc/?username=yashk1)
 
 
