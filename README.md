@@ -1,4 +1,4 @@
-# Hi there 👋, I am Yash Sharma, A passionate Data Scientist/Analyst.
+# Hi there 👋, I am Yash Sharma, a passionate Data Scientist/Analyst.
 
 ## On this page I keep all my projects and useful resources for Data Science
 
