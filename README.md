@@ -3,8 +3,6 @@ I am Yash, a Data Scientist from Seattle
 
 ### About me
 - Currently working as a People analyst
-- 📊 Transition to data scientist since **Jan 2022**
-- 📝 Taught myself Machine Learning, SQL, Python
 
 ### 📚 Projects & Guides 📚
 - Click **[HERE](https://github.com/yashk1/)** for my projects and guides
