@@ -2,7 +2,7 @@
 I am Yash, a Data Scientist from Seattle
 
 ##### ✨ About me✨
-- Currently working as a People analyste
+- Currently working as a People analyst
 - 📊 Transition to data scientist since **Jan 2021**
 - 📝 Taught myself Machine Learning, SQL, Python
 
