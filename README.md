@@ -3,6 +3,9 @@
 ## About me
 - Currently working as a Data analyst in People Analytics
 
+### 📚 Projects & Guides 📚
+- Click **[HERE](https://github.com/yashk1/)** for my projects and guides
+
 ### 🧰 Toolbox
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,10 +14,6 @@
 ![Tableau](https://img.shields.io/badge/tableau-log.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-### 📚 Projects & Guides 📚
-- Click **[HERE](https://github.com/yashk1/)** for my projects and guides
 
 ### Connect
 
