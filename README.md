@@ -1,10 +1,10 @@
 # Hi there I am Yash 👋
-
-## About me
 - Currently working as a Data analyst in People Analytics
+- I’m interested in software engineering and web development
+- Learning how to deploy data science solutions 
 
-### 📚 Projects & Guides 📚
-- Click **[HERE](https://github.com/yashk1/)** for my projects and guides
+<!-- ### 📚 Projects & Guides 📚
+- Click **[HERE](https://github.com/yashk1/)** for my projects and guides -->
 
 ### 🧰 Toolbox
 
