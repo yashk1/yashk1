@@ -1,6 +1,6 @@
 # Hi there I am Yash 👋
 - Currently working as a Data analyst in People Analytics
-- I’m interested in software engineering and web development
+- I’m interested in software engineering and machine learning applications
 - Learning how to deploy data science solutions 
 
 <!-- ### 📚 Projects & Guides 📚
