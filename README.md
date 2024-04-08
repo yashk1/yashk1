@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-I am a Data Scientist / Machine Learning Engineer
-<br>
-<br>
-I am working on 📚
-- creating ML applications
+I am a Data Scientist / Machine Learning Engineer. 
+
 
 <!-- ### 📚 Projects & Guides 📚
 - Click **[HERE](https://github.com/yashk1/)** for my projects and guides -->
