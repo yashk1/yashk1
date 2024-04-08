@@ -2,7 +2,7 @@
 
 I am a Data Scientist / Machine Learning Engineer
 <br>
-
+<br>
 I am working on 📚
 - creating ML applications
 
@@ -13,7 +13,7 @@ I am working on 📚
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 
 
 **Libraries and Frameworks**
