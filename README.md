@@ -21,7 +21,7 @@ I am a Data Scientist / Machine Learning Engineer.
 
 **Cloud**
 
-<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+<img title="AWS" alt="Azure" width="40px" src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-2048x2048-3trjae80.png">|<img title="Heroku" alt="GCP" width="40px" src="https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png">
 |--|--|
 
 **Databases**
