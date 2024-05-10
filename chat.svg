@@ -282,7 +282,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">With 5 years of experience in Data Analytics</text>    
-    <text x="15" y="50">...</text>
+<!--     <text x="15" y="50">...</text> -->
   </g> 
 
   <!-- typing 4 -->
@@ -307,7 +307,7 @@
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="200" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Cmd C + CMD V programmer who loves creating systems</text>
+    <text x="15" y="27">Cmd C,V programmer</text>
   </g>
    <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
