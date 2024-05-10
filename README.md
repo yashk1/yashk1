@@ -2,6 +2,8 @@
 
 I am a Data Scientist / Machine Learning Engineer. 
 
+[![](https://github.com/yashk1/yashk1/blob/feature/chat.svg)](https://www.linkedin.com/in/yashk1/)
+
 
 <!-- ### 📚 Projects & Guides 📚
 - Click **[HERE](https://github.com/yashk1/)** for my projects and guides -->
