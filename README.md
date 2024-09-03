@@ -13,7 +13,7 @@ Blending over 4 years of experience in Data Analytics, ML, and Software Engineer
 
 
 ### Professional Highlights 🌟
-- **Sr BI Engineer** - remote, US (April 2023 - April 2024)
+- **Sr BI Engineer** - PetSmart, remote, US (April 2023 - April 2024)
 - **Data Engineer** - USAA, Remote US (2021 - 2023)
 - **Data Analyst** - USAA, San Antonio US (2019 - 2021)
 
