@@ -5,15 +5,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-yashk1-181717?style=flat-square&logo=github)](https://github.com/yashk1)
 [![Email](https://img.shields.io/badge/Email-yash95kumar%40gmail.com-red?style=flat-square&logo=gmail)](mailto:yash95kumar@gmail.com)
 
-🌟 Transforming data into AI-driven solutions | 4+ years of experience | Based in Seattle, WA
+🌟 Transforming data into AI-driven solutions | 4+ years of experience | 📍 Based in Seattle, WA
 
 ### 🚀 Professional Summary
 Innovative AI/Data Engineer with a strong background in Machine Learning, Data Analytics, and Software Engineering. Specialized in developing AI applications that enhance data accessibility and drive business value.
 
 ### 💼 Experience
-**Sr BI Engineer** | PetSmart (Remote, US) | April 2023 - April 2024
-**Data Engineer** | USAA (Remote, US) | 2021 - 2023
-**Data Analyst** | USAA (San Antonio, US) | 2019 - 2021
+- **Sr BI Engineer** | PetSmart (Remote, US) | April 2023 - April 2024
+- **Data Engineer** | USAA (Remote, US) | 2021 - 2023
+- **Data Analyst** | USAA (San Antonio, US) | 2019 - 2021
 
 
 ### 🛠️ Technical Skills
