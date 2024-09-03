@@ -1,36 +1,39 @@
-# 👋 Hello, I'm Yash Sharma!
+# Yash Sharma
+## AI/Data Engineer | Applied AI Specialist
 
-## 🚀 AI/Data Engineer focusing on applied AI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashk1-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yashk1)
+[![GitHub](https://img.shields.io/badge/GitHub-yashk1-181717?style=flat-square&logo=github)](https://github.com/yashk1)
+[![Email](https://img.shields.io/badge/Email-yash95kumar%40gmail.com-red?style=flat-square&logo=gmail)](mailto:yash95kumar@gmail.com)
 
-📍 **Seattle**  
-📧 **Email:** [yash95kumar@gmail.com](mailto:yash95kumar@gmail.com)  
-🔗 **LinkedIn:** [yashk1](https://linkedin.com/in/yashk1)  
-👨‍💻 **GitHub:** [yashk1](https://github.com/yashk1)
+🌟 Transforming data into AI-driven solutions | 4+ years of experience | Based in Seattle, WA
 
+### 🚀 Professional Summary
+Innovative AI/Data Engineer with a strong background in Machine Learning, Data Analytics, and Software Engineering. Specialized in developing AI applications that enhance data accessibility and drive business value.
 
-### About Me 🌐
-Blending over 4 years of experience in Data Analytics, ML, and Software Engineering, I provide easier access to data and create AI applications
-
-
-### Professional Highlights 🌟
-- **Sr BI Engineer** - PetSmart, remote, US (April 2023 - April 2024)
-- **Data Engineer** - USAA, Remote US (2021 - 2023)
-- **Data Analyst** - USAA, San Antonio US (2019 - 2021)
+### 💼 Experience
+**Sr BI Engineer** | PetSmart (Remote, US) | April 2023 - April 2024
+**Data Engineer** | USAA (Remote, US) | 2021 - 2023
+**Data Analyst** | USAA (San Antonio, US) | 2019 - 2021
 
 
-### Tech Toolbox 🛠️
+### 🛠️ Technical Skills
 - **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+- **AI/ML:** PyTorch, Langchain, Hugging Face, SpaCy, TensorFlow
+- **Cloud & Big Data:** AWS, GCP, Hadoop, Spark
+- **Data Engineering:** Airflow, Kafka, Snowflake
+- **DevOps:** Docker, Kubernetes, CI/CD pipelines
+- **Specialties:** LLMs, Generative AI, NLP, Vector Databases, Recommender Systems
 
-### Education 🎓
-- **Masters in IT**, The University of Texas at Dallas
-- **Bachelors in Software Engineering**, Delhi College of Engineering
+### 🎓 Education
+- **M.S. in Information Technology** | The University of Texas at Dallas
+- **B.Tech in Software Engineering** | Delhi College of Engineering
 
-### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Encode:** Generative AI bootcamp
-- **AWS:** Solutions Architect, Data Engineer
+### 📜 Certifications
+- AWS Certified Solutions Architect & Data Engineer
+- Deep Learning Specialization (Coursera)
+- Machine Learning Specialization (Coursera)
+- Generative AI Bootcamp (Encode)
 
-🔗 Let's ideate, innovate, and build cool experiences with AI. Reach out for collaborations or simply to chat!
+---
+
+🔍 Open to exciting opportunities in AI and Data Engineering. Let's connect and explore how we can drive innovation together!
