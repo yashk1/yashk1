@@ -31,6 +31,6 @@ Blending over 4 years of experience in Data Analytics, ML, and Software Engineer
 ### Certifications 📜
 - **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
 - **Encode:** Generative AI bootcamp
-- **AWS** Solutions Architect, Data Engineer
+- **AWS:** Solutions Architect, Data Engineer
 
 🔗 Let's ideate, innovate, and build cool experiences with AI. Reach out for collaborations or simply to chat!
