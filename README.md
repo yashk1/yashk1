@@ -17,19 +17,19 @@ Innovative AI/Data Engineer with a strong background in Machine Learning, Data A
 
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, SQL, JavaScript, Ruby
+- **Languages:** Python, SQL
 - **AI/ML:** PyTorch, Langchain, Hugging Face, SpaCy, TensorFlow
-- **Cloud & Big Data:** AWS, GCP, Hadoop, Spark
-- **Data Engineering:** Airflow, Kafka, Snowflake
-- **DevOps:** Docker, Kubernetes, CI/CD pipelines
+- **Cloud & Big Data:** AWS, GCP, Spark
+- **Data Engineering:** Airflow, Mage, Databricks, Snowflake
+- **DevOps:** Docker, CI/CD pipelines
 - **Specialties:** LLMs, Generative AI, NLP, Vector Databases, Recommender Systems
 
 ### 🎓 Education
-- **M.S. in Information Technology** | The University of Texas at Dallas
+- **M.S. in Information Systems** | The University of Texas at Dallas
 - **B.Tech in Software Engineering** | Delhi College of Engineering
 
 ### 📜 Certifications
-- AWS Certified Solutions Architect & Data Engineer
+- AWS Certified Solutions Architect
 - Deep Learning Specialization (Coursera)
 - Machine Learning Specialization (Coursera)
 - Generative AI Bootcamp (Encode)
