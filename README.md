@@ -1,5 +1,5 @@
 # Yash Sharma
-## AI/Data Engineer
+## AI / Data Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashk1-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yashk1)
 [![GitHub](https://img.shields.io/badge/GitHub-yashk1-181717?style=flat-square&logo=github)](https://github.com/yashk1)
